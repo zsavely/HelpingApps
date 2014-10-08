@@ -36,7 +36,7 @@ public class PowerConnectionReceiver extends BroadcastReceiver {
 		if (usbCharge) {
 			setTimeout(5, context);
 		} else {
-			setTimeout(0, context);
+			setTimeout(2, context);
 		}
 	}
 
@@ -72,7 +72,7 @@ public class PowerConnectionReceiver extends BroadcastReceiver {
 		numberFormatter = NumberFormat.getNumberInstance(currentLocale);
 
 		numberFormatter.setMaximumFractionDigits(2);
-		numberFormatter.setMinimumFractionDigits(0);
+		numberFormatter.setMinimumFractionDigits(2);
 
 		Toast.makeText(mContext,
 				"Current: " + numberFormatter.format(minutes) + " minute(s).",
