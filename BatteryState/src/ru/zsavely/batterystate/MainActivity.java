@@ -1,5 +1,8 @@
 package ru.zsavely.batterystate;
 
+import java.text.NumberFormat;
+import java.util.Locale;
+
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
@@ -87,8 +90,15 @@ public class MainActivity extends Activity {
 
 		double minutes = time / 1000 / 60;
 
+		NumberFormat numberFormatter;
+		Locale currentLocale = Locale.FRANCE;
+		numberFormatter = NumberFormat.getNumberInstance(currentLocale);
+
+		numberFormatter.setMaximumFractionDigits(2);
+		numberFormatter.setMinimumFractionDigits(0);
+
 		Toast.makeText(mContext,
-				"Current: " + String.valueOf(minutes) + " minute(s).",
+				"Current: " + numberFormatter.format(minutes) + " minute(s).",
 				Toast.LENGTH_SHORT).show();
 
 		android.provider.Settings.System.putInt(mContext.getContentResolver(),
