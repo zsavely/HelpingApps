@@ -64,7 +64,7 @@ public class MainActivity extends Activity {
 	}
 
 	private void setTimeout(int screenOffTimeout) {
-		int time;
+		double time;
 		switch (screenOffTimeout) {
 		case 0:
 			time = 15000;
@@ -102,7 +102,7 @@ public class MainActivity extends Activity {
 				Toast.LENGTH_SHORT).show();
 
 		android.provider.Settings.System.putInt(mContext.getContentResolver(),
-				Settings.System.SCREEN_OFF_TIMEOUT, time);
+				Settings.System.SCREEN_OFF_TIMEOUT, (int) time);
 	}
 
 }

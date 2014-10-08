@@ -36,12 +36,12 @@ public class PowerConnectionReceiver extends BroadcastReceiver {
 		if (usbCharge) {
 			setTimeout(5, context);
 		} else {
-			setTimeout(2, context);
+			setTimeout(0, context);
 		}
 	}
 
 	private void setTimeout(int screenOffTimeout, Context mContext) {
-		int time;
+		double time;
 		switch (screenOffTimeout) {
 		case 0:
 			time = 15000;
@@ -72,13 +72,13 @@ public class PowerConnectionReceiver extends BroadcastReceiver {
 		numberFormatter = NumberFormat.getNumberInstance(currentLocale);
 
 		numberFormatter.setMaximumFractionDigits(2);
-		numberFormatter.setMinimumFractionDigits(2);
+		numberFormatter.setMinimumFractionDigits(0);
 
 		Toast.makeText(mContext,
 				"Current: " + numberFormatter.format(minutes) + " minute(s).",
 				Toast.LENGTH_SHORT).show();
 
 		android.provider.Settings.System.putInt(mContext.getContentResolver(),
-				Settings.System.SCREEN_OFF_TIMEOUT, time);
+				Settings.System.SCREEN_OFF_TIMEOUT, (int) time);
 	}
 }
