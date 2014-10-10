@@ -21,22 +21,23 @@ public class PowerConnectionReceiver extends BroadcastReceiver {
 				.registerReceiver(null, ifilter);
 
 		// Are we charging / charged?
-		int status = batteryStatus.getIntExtra(BatteryManager.EXTRA_STATUS, -1);
+		// int status = batteryStatus.getIntExtra(BatteryManager.EXTRA_STATUS,
+		// -1);
 
-		boolean isCharging = status == BatteryManager.BATTERY_STATUS_CHARGING
-				|| status == BatteryManager.BATTERY_STATUS_FULL;
+		// boolean isCharging = status == BatteryManager.BATTERY_STATUS_CHARGING
+		// || status == BatteryManager.BATTERY_STATUS_FULL;
 
 		// How are we charging?
 		int chargePlug = batteryStatus.getIntExtra(
 				BatteryManager.EXTRA_PLUGGED, -1);
 		boolean usbCharge = chargePlug == BatteryManager.BATTERY_PLUGGED_USB;
-		boolean acCharge = chargePlug == BatteryManager.BATTERY_PLUGGED_AC;
+		// boolean acCharge = chargePlug == BatteryManager.BATTERY_PLUGGED_AC;
 
 		// setTimeout(usbCharge ? 5 : 2);
 		if (usbCharge) {
 			setTimeout(5, context);
 		} else {
-			setTimeout(0, context);
+			setTimeout(2, context);
 		}
 	}
 
