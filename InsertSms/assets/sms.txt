@@ -1,36 +1,22 @@
-﻿4*0006; Pokupka; Uspeshno; Summa: 10,00 RUR; Ostatok: 1253,95 RUR; RU/SURGUT/APTEKA 52; 07.09.2014 16:10:44
-4*0006; Pokupka; Uspeshno; Summa: 1000,00 RUR; Ostatok: 19,95 RUR; RU/SURGUT/ZAPOY; 09.09.2014 20:06:59
-4*0006; Pokupka; Uspeshno; Summa: 142,00 RUR; Ostatok: 14781,54 RUR; RU/SURGUT/MYASNOY DVOR; 25.06.2014 15:07:02
-4*0006; Pokupka; Uspeshno; Summa: 150,00 RUR; Ostatok: 13245,54 RUR; RU/SURGUT/MCDONALDS 23602; 30.06.2014 14:43:17
-4*0006; Pokupka; Uspeshno; Summa: 163,00 RUR; Ostatok: 1019,95 RUR; RU/SURGUT/MCDONALDS 23603; 08.09.2014 19:39:50
-4*0006; Pokupka; Uspeshno; Summa: 164,00 RUR; Ostatok: 100,80 RUR; RU/SURGUT/TOVARY DLYA DETEY; 05.08.2014 15:30:45
-4*0006; Pokupka; Uspeshno; Summa: 171,00 RUR; Ostatok: 2348,22 RUR; RU/SURGUT/MAGAZIN PRODUCTI; 04.09.2014 09:31:06
-4*0006; Pokupka; Uspeshno; Summa: 174,00 RUR; Ostatok: 2475,22 RUR; RU/SURGUT/M-N PRODUKTOVYY; 01.09.2014 11:34:50
-4*0006; Pokupka; Uspeshno; Summa: 1754,31 RUR; Ostatok: 15107,24 RUR; RU/SURGUT/SUPERMARKET ROST 1; 25.06.2014 12:08:50
-4*0006; Pokupka; Uspeshno; Summa: 1824,70 RUR; Ostatok: 18057,20 RUR; RU/SURGUT/OKEY; 24.05.2014 15:21:21
-4*0006; Pokupka; Uspeshno; Summa: 234,27 RUR; Ostatok: 1263,95 RUR; RU/SURGUT/MAGNIT U DOMA SILACH; 06.09.2014 16:04:59
-4*0006; Pokupka; Uspeshno; Summa: 240,90 RUR; Ostatok: 2649,22 RUR; RU/SURGUT/APTEKA OT SKLADA; 31.08.2014 15:34:16
-4*0006; Pokupka; Uspeshno; Summa: 381,50 RUR; Ostatok: 1966,72 RUR; RU/SURGUT/SPAR; 06.09.2014 09:16:11
-4*0006; Pokupka; Uspeshno; Summa: 389,61 RUR; Ostatok: 2890,12 RUR; RU/SURGUT/MYASNOY DVOR; 31.08.2014 15:30:29
-4*0006; Pokupka; Uspeshno; Summa: 398,80 RUR; Ostatok: 18839,15 RUR; RU/SURGUT/MAGNIT GM SURGUT; 30.05.2014 13:33:11
-4*0006; Pokupka; Uspeshno; Summa: 442,81 RUR; Ostatok: 264,80 RUR; RU/SURGUT-628400/LABAZ R G DEVELOPMENT; 05.08.2014 15:04:37
-4*0006; Pokupka; Uspeshno; Summa: 468,50 RUR; Ostatok: 1498,22 RUR; RU/SURGUT/OPTIMA-107; 06.09.2014 15:02:31
-4*0006; Pokupka; Uspeshno; Summa: 490,00 RUR; Ostatok: 4010,80 RUR; RU/SURGUT/AMELI; 30.08.2014 12:10:53
-4*0006; Pokupka; Uspeshno; Summa: 53,80 RUR; Ostatok: 13191,74 RUR; RU/SURGUT/OOO O KEY; 30.06.2014 15:21:14
-4*0006; Pokupka; Uspeshno; Summa: 685,00 RUR; Ostatok: 14096,54 RUR; RU/SURGUT/MAGAZIN KOLOS; 25.06.2014 16:24:18
-4*0006; Pokupka; Uspeshno; Summa: 701,00 RUR; Ostatok: 13395,54 RUR; RU/SURGUT/M-N DOCHKI-SYNOCHKI; 26.06.2014 15:46:13
-4*0006; Pokupka; Uspeshno; Summa: 707,80 RUR; Ostatok: 18072,35 RUR; RU/SURGUT/OKEY; 11.06.2014 14:06:31
-4*0006; Pokupka; Uspeshno; Summa: 71,00 RUR; Ostatok: 1182,95 RUR; RU/SURGUT/MAGAZIN PRODUCTI; 07.09.2014 19:34:33
-4*0006; Pokupka; Uspeshno; Summa: 71,00 RUR; Ostatok: 2519,22 RUR; RU/SURGUT/PRODUKTY; 03.09.2014 09:18:47
-4*0006; Pokupka; Uspeshno; Summa: 88,70 RUR; Ostatok: 14923,54 RUR; RU/SURGUT/APTEKA OT SKLADA; 25.06.2014 15:00:27
-4*0006; Pokupka; Uspeshno; Summa: 929,00 RUR; Ostatok: 12356,61 RUR; RU/SURGUT/SILK WAY; 03.08.2014 16:53:30
-4*0006; Pokupka; Uspeshno; Summa: 95,00 RUR; Ostatok: 15012,24 RUR; RU/SURGUT/SUPERMARKET ROST 1; 25.06.2014 12:14:12
-4*0006; Pokupka; Uspeshno; Summa: 950,00 RUR; Ostatok: 12241,74 RUR; RU/SURGUT-628400/BASHMACHOK; 01.07.2014 17:24:18
-4*0006; Pokupka; Uspeshno; Summa: 999,00 RUR; Ostatok: 17073,35 RUR; RU/SURGUT/"H & M" SHOP; 11.06.2014 14:53:19
-4*0006; Postupleniye; Summa: 100,00 RUR; Ostatok: 19511,47 RUR; 16.04.2014
-4*0006; Postupleniye; Summa: 1500,00 RUR; Ostatok: 19557,20 RUR; 24.05.2014
-4*0006; Postupleniye; Summa: 2000,00 RUR; Ostatok: 14182,74 RUR; 30.07.2014
-4*0006; Postupleniye; Summa: 2500,00 RUR; Ostatok: 21852,47 RUR; 04.05.2014
-4*0006; Postupleniye; Summa: 4500,00 RUR; Ostatok: 4500,80 RUR; 30.08.2014
-4*0006; Vydacha nalichnyh; Uspeshno; Summa: 11000,00 RUR; Ostatok: 707,61 RUR; RU/SURGUT/Alfa-Bank ATM; 04.08.2014 15:08:26
-4*0006; Vydacha nalichnyh; Uspeshno; Summa: 200,00 RUR; Ostatok: 16861,55 RUR; RU/SURGUT/Alfa-Bank ATM; 11.06.2014 15:15:00
+﻿Karta *0202: Oplata 1005.67 RUR; LUKOIL AZK 69 CHERNIGOWS; data: 01.08.2014 15:03; dostupno 14471.81 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: Oplata 1478.00 RUR; NORMAN; data: 01.08.2014 21:33; dostupno 12993.81 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: Oplata 168.00 RUR; NESTE AZS 343; data: 04.08.2014 16:17; dostupno 7735.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: Oplata 17246.52 RUR; ANYWAYANYDAY; data: 06.08.2014 12:09; dostupno 2568.58 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: Oplata 1774.68 RUR; LUKOIL AZK101 KIRPICNAYA; data: 02.08.2014 00:33; dostupno 11219.13 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: Oplata 1902.21 RUR; AZK-2; data: 29.07.2014 20:43; dostupno 18097.79 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: Oplata 20.00 RUR; HIGH-SPEED DIAMETERQPS; data: 04.08.2014 01:55; dostupno 7903.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: Oplata 2258.03 RUR; LUKOIL AZK 148 SKANDIN2; data: 03.08.2014 14:11; dostupno 8961.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: Oplata 226.00 RUR; MCDONALDS 21002; data: 07.08.2014 00:24; dostupno 1342.58 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: Oplata 2434.00 RUR; KARUSEL; data: 31.07.2014 23:16; dostupno 15477.48 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: Oplata 263.00 RUR; LUKOIL AZK 148 SKANDIN2; data: 04.08.2014 00:18; dostupno 7923.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: Oplata 307.00 RUR; "KFC GAKKELEVSKAYA" CAFE; data: 07.08.2014 13:23; dostupno 35.83 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: Oplata 343.00 RUR; MCDONALDS 21001; data: 04.08.2014 18:55; dostupno 7348.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: Oplata 400.00 RUR; ROSTELEKOM; data: 06.08.2014 11:35; dostupno 4815.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: Oplata 433.00 RUR; KROSHKA-KARTOSHKA; data: 05.08.2014 13:57; dostupno 6915.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: Oplata 44.00 RUR; NESTE AZS 3; data: 04.08.2014 16:22; dostupno 7691.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: Oplata 775.00 RUR; LUKOIL AZK101 KIRPICNAYA; data: 03.08.2014 19:55; dostupno 8186.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: Oplata 999.75 RUR; AZS-2; data: 07.08.2014 12:42; dostupno 342.83 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: snyatie nalichnih 1000.00 RUR; 1/32, ROPSHINSKAYA; data: 06.08.2014 23:22; dostupno 1568.58 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: snyatie nalichnih 1700.00 RUR; 37A, KAMENOOSTROVSKIY; data: 05.08.2014 16:00; dostupno 5215.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: vnesenie nalichnih 15000.00 RUR; 1/32, ROPSHINSKAYA; data: 06.08.2014 12:05; dostupno 19815.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
+Karta *0202: vnesenie nalichnih 20000.00 RUR; 1/32, ROPSHINSKAYA; data: 29.07.2014 20:31; dostupno 20000 RUR (v tom chisle kred. 0.00 RUR). VTB24

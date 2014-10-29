@@ -22,7 +22,7 @@ public class ActivityMain extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		saveSms();
-//		finish();
+		// finish();
 	}
 
 	private void saveSms() {
@@ -37,30 +37,45 @@ public class ActivityMain extends Activity {
 
 	@TargetApi(Build.VERSION_CODES.KITKAT)
 	private void check() {
-		final String myPackageName = getPackageName();
-		if (!Telephony.Sms.getDefaultSmsPackage(this).equals(myPackageName)) {
-			// App is not default.
-			// Show the "not currently set as the default SMS app" interface
-			// View viewGroup = findViewById(R.id.not_default_app);
-			// viewGroup.setVisibility(View.VISIBLE);
-			//
-			// // Set up a button that allows the user to change the default SMS
-			// app
-			// Button button = (Button) findViewById(R.id.change_default_app);
-			// button.setOnClickListener(new View.OnClickListener() {
-			// public void onClick(View v) {
-			Intent intent = new Intent(
-					Telephony.Sms.Intents.ACTION_CHANGE_DEFAULT);
-			intent.putExtra(Telephony.Sms.Intents.EXTRA_PACKAGE_NAME,
-					myPackageName);
-			startActivity(intent);
-			// }
-			// });
-		} else {
-			// App is the default.
-			// Hide the "not currently set as the default SMS app" interface
-			// View viewGroup = findViewById(R.id.not_default_app);
-			// viewGroup.setVisibility(View.GONE);
+		try {
+			final String myPackageName = getPackageName();
+
+			int currentapiVersion = android.os.Build.VERSION.SDK_INT;
+
+			if (currentapiVersion == android.os.Build.VERSION_CODES.KITKAT) {
+				if (!Telephony.Sms.getDefaultSmsPackage(this).equals(
+						myPackageName)) {
+					// App is not default.
+					// Show the "not currently set as the default SMS app"
+					// interface
+					// View viewGroup = findViewById(R.id.not_default_app);
+					// viewGroup.setVisibility(View.VISIBLE);
+					//
+					// // Set up a button that allows the user to change the
+					// default
+					// SMS
+					// app
+					// Button button = (Button)
+					// findViewById(R.id.change_default_app);
+					// button.setOnClickListener(new View.OnClickListener() {
+					// public void onClick(View v) {
+					Intent intent = new Intent(
+							Telephony.Sms.Intents.ACTION_CHANGE_DEFAULT);
+					intent.putExtra(Telephony.Sms.Intents.EXTRA_PACKAGE_NAME,
+							myPackageName);
+					startActivity(intent);
+					// }
+					// });
+				} else {
+					// App is the default.
+					// Hide the "not currently set as the default SMS app"
+					// interface
+					// View viewGroup = findViewById(R.id.not_default_app);
+					// viewGroup.setVisibility(View.GONE);
+				}
+			}
+		} catch (Exception e) {
+
 		}
 	}
 
@@ -69,7 +84,7 @@ public class ActivityMain extends Activity {
 		c.add(Calendar.DAY_OF_MONTH, -31 + (new Random()).nextInt(31));
 
 		ContentValues values = new ContentValues();
-		values.put("address", "2265");
+		values.put("address", "VTB24");
 		values.put("body", message);
 		values.put("date", String.valueOf(c.getTimeInMillis()));
 		getContentResolver().insert(Uri.parse("content://sms/inbox"), values);
