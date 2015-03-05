@@ -18,7 +18,7 @@ public class MainActivity extends Activity {
 			showInstalledAppDetails(this, "easywallet.widgetdemo");
 
 		} catch (Exception e) {
-			Toast.makeText(this, "Couldn't open settings", Toast.LENGTH_LONG)
+			Toast.makeText(this, "Couldn't open settings", Toast.LENGTH_SHORT)
 					.show();
 		}
 		finish();
