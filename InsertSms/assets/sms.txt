@@ -1,7 +1,1 @@
-﻿Schet Z(RUR): Izmenenie: +13800.00; Ostatok: 17101.68; Dostupno: 17101.68; 11/12/12 12:27.
-Schet Z(RUR): Izmenenie: +11500.00; Ostatok: 11611.63; Dostupno: 11611.63; 18/09/12 11:01.
-Schet Z(RUR): Izmenenie: +25904.33; Ostatok: 26159.63; Dostupno: 26059.63; 15/08/12 19:34.
-Schet Z(RUR): Izmenenie: -48.00; Ostatok: 255.30; Dostupno: 255.30; 13/08/12 22:17.
-Schet Z(RUR): Izmenenie: -48.00; Ostatok: 311.63; Dostupno: 311.63; 11/09/12 22:16.
-Schet Z(RUR): Izmenenie: -48.00; Ostatok: 39101.86; Dostupno: 39092.82; 11/06/13 22:52.
-Schet Z(RUR): Izmenenie: -48.00; Ostatok: 22853.64; Dostupno: 22593.64; 11/07/13 22:12.
+﻿13-03-2015 Na vash kartochny schet zachisleno 48000.00 RUR Dostupno: 48 346.25 RUR
