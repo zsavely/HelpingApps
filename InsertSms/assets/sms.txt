@@ -1,22 +1,7 @@
-﻿Karta *0202: Oplata 1005.67 RUR; LUKOIL AZK 69 CHERNIGOWS; data: 01.08.2014 15:03; dostupno 14471.81 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: Oplata 1478.00 RUR; NORMAN; data: 01.08.2014 21:33; dostupno 12993.81 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: Oplata 168.00 RUR; NESTE AZS 343; data: 04.08.2014 16:17; dostupno 7735.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: Oplata 17246.52 RUR; ANYWAYANYDAY; data: 06.08.2014 12:09; dostupno 2568.58 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: Oplata 1774.68 RUR; LUKOIL AZK101 KIRPICNAYA; data: 02.08.2014 00:33; dostupno 11219.13 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: Oplata 1902.21 RUR; AZK-2; data: 29.07.2014 20:43; dostupno 18097.79 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: Oplata 20.00 RUR; HIGH-SPEED DIAMETERQPS; data: 04.08.2014 01:55; dostupno 7903.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: Oplata 2258.03 RUR; LUKOIL AZK 148 SKANDIN2; data: 03.08.2014 14:11; dostupno 8961.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: Oplata 226.00 RUR; MCDONALDS 21002; data: 07.08.2014 00:24; dostupno 1342.58 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: Oplata 2434.00 RUR; KARUSEL; data: 31.07.2014 23:16; dostupno 15477.48 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: Oplata 263.00 RUR; LUKOIL AZK 148 SKANDIN2; data: 04.08.2014 00:18; dostupno 7923.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: Oplata 307.00 RUR; "KFC GAKKELEVSKAYA" CAFE; data: 07.08.2014 13:23; dostupno 35.83 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: Oplata 343.00 RUR; MCDONALDS 21001; data: 04.08.2014 18:55; dostupno 7348.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: Oplata 400.00 RUR; ROSTELEKOM; data: 06.08.2014 11:35; dostupno 4815.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: Oplata 433.00 RUR; KROSHKA-KARTOSHKA; data: 05.08.2014 13:57; dostupno 6915.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: Oplata 44.00 RUR; NESTE AZS 3; data: 04.08.2014 16:22; dostupno 7691.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: Oplata 775.00 RUR; LUKOIL AZK101 KIRPICNAYA; data: 03.08.2014 19:55; dostupno 8186.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: Oplata 999.75 RUR; AZS-2; data: 07.08.2014 12:42; dostupno 342.83 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: snyatie nalichnih 1000.00 RUR; 1/32, ROPSHINSKAYA; data: 06.08.2014 23:22; dostupno 1568.58 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: snyatie nalichnih 1700.00 RUR; 37A, KAMENOOSTROVSKIY; data: 05.08.2014 16:00; dostupno 5215.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: vnesenie nalichnih 15000.00 RUR; 1/32, ROPSHINSKAYA; data: 06.08.2014 12:05; dostupno 19815.1 RUR (v tom chisle kred. 0.00 RUR). VTB24
-Karta *0202: vnesenie nalichnih 20000.00 RUR; 1/32, ROPSHINSKAYA; data: 29.07.2014 20:31; dostupno 20000 RUR (v tom chisle kred. 0.00 RUR). VTB24
+﻿Schet Z(RUR): Izmenenie: +13800.00; Ostatok: 17101.68; Dostupno: 17101.68; 11/12/12 12:27.
+Schet Z(RUR): Izmenenie: +11500.00; Ostatok: 11611.63; Dostupno: 11611.63; 18/09/12 11:01.
+Schet Z(RUR): Izmenenie: +25904.33; Ostatok: 26159.63; Dostupno: 26059.63; 15/08/12 19:34.
+Schet Z(RUR): Izmenenie: -48.00; Ostatok: 255.30; Dostupno: 255.30; 13/08/12 22:17.
+Schet Z(RUR): Izmenenie: -48.00; Ostatok: 311.63; Dostupno: 311.63; 11/09/12 22:16.
+Schet Z(RUR): Izmenenie: -48.00; Ostatok: 39101.86; Dostupno: 39092.82; 11/06/13 22:52.
+Schet Z(RUR): Izmenenie: -48.00; Ostatok: 22853.64; Dostupno: 22593.64; 11/07/13 22:12.
