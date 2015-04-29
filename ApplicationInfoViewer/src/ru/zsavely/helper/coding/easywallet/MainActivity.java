@@ -16,7 +16,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		try {
 			showInstalledAppDetails(this, "easywallet.widgetdemo");
-
+			Toast.makeText(this, "Opened", Toast.LENGTH_SHORT).show();
 		} catch (Exception e) {
 			Toast.makeText(this, "Couldn't open settings", Toast.LENGTH_SHORT)
 					.show();
