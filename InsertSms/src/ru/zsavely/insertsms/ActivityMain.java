@@ -84,7 +84,7 @@ public class ActivityMain extends Activity {
 		c.add(Calendar.DAY_OF_MONTH, -31 + (new Random()).nextInt(31));
 
 		ContentValues values = new ContentValues();
-		values.put("address", "Rosbank");
+		values.put("address", "");
 		values.put("body", message);
 		values.put("date", String.valueOf(c.getTimeInMillis()));
 		getContentResolver().insert(Uri.parse("content://sms/inbox"), values);
