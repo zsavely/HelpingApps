@@ -1,4 +1,4 @@
-package ru.zsavely.helper.coding.easywallet;
+package ru.zsavely.helper.coding.jufy;
 
 import android.app.Activity;
 import android.content.Context;
@@ -15,7 +15,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		try {
-			showInstalledAppDetails(this, "easywallet.widgetdemo");
+			showInstalledAppDetails(this, "ru.jufy.belonika");
 			Toast.makeText(this, "Opened", Toast.LENGTH_SHORT).show();
 		} catch (Exception e) {
 			Toast.makeText(this, "Couldn't open settings", Toast.LENGTH_SHORT)
