@@ -15,7 +15,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		try {
-			showInstalledAppDetails(this, "ru.jufy.belonika");
+			showInstalledAppDetails(this, "ru.belonika");
 			Toast.makeText(this, "Opened", Toast.LENGTH_SHORT).show();
 		} catch (Exception e) {
 			Toast.makeText(this, "Couldn't open settings", Toast.LENGTH_SHORT)
